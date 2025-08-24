@@ -1,5 +1,3 @@
-# GymX---Privacy-Policy-Terms-Condition
-
 # Privacy Policy
 We collect information from you when you register on our site, place an order or enter information on our site.
 ### What personal information do we collect from the people that visit our blog, website or app?
