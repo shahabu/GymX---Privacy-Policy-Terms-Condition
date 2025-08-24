@@ -10,7 +10,7 @@ We may use the information we collect from you when you register, make a purchas
 Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.All transactions are processed through a gateway provider and are not stored or processed on our servers.
 ### Third-party disclosure
 We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or other's rights, property or safety.However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
- ### Third-party link
+### Third-party link
 We do not include or offer third-party products or services on our App/website.
 
 # Terms & Conditions
